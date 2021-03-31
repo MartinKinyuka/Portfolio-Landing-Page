@@ -22,9 +22,117 @@ body{
 }
 h2{
   text-align: center;
+  clear: both;
 }
 ol{
   display: flex;
   flex-direction: row;
   justify-content: space-between;
+}
+.band p{
+  box-sizing: border-box;
+  border:1px solid black;
+  border-radius: 5px;
+  background-color: oldlace;
+  height: 110px;
+  width: 300px;
+  color: black;
+  text-align: center;
+  box-shadow: 2px 2px 2px 2px;
+  padding: 10px;
+
+}
+.band a{
+  text-decoration: none;
+ box-sizing: border-box;
+ border: 2px solid black;
+ background-color:tomato;
+ border-radius: 5px;
+ color: black;
+ width: fit-content;
+}
+.band img{
+  height: 150px;
+  width: 300px;
+  clear: both;
+}
+.anita p{
+  box-sizing: border-box;
+  border:1px solid black;
+  border-radius: 5px;
+  background-color: oldlace;
+  height: 100px;
+  width: 300px;
+  color: black;
+  text-align: center;
+  box-shadow: 2px 2px 2px 2px;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  padding: 10px;
+  clear: both;
+  position: relative;
+  bottom: 310px;
+}
+.anita a{
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+ text-decoration: none;
+ box-sizing: border-box;
+ border: 2px solid black;
+ background-color:tomato;
+ border-radius: 5px;
+ color: black;
+ width: fit-content;
+ position: relative;
+ bottom: 310px;
+}
+.anita img{
+  height: 150px;
+  width: 300px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  clear: both;
+  position: relative;
+  bottom: 310px;
+}
+
+.sharjah img{
+  height: 150px;
+  width: 300px;
+  position: relative;
+  bottom: 610px;
+  float: right;
+  
+}
+.sharjah p {
+  box-sizing: border-box;
+  border:1px solid black;
+  border-radius: 5px;
+  background-color: oldlace;
+  height: 150px;
+  width: 300px;
+  color: black;
+  text-align: center;
+  box-shadow: 2px 2px 2px 2px;
+  float: right;
+  clear: both;
+  padding: 10px;
+  position: relative;
+  bottom: 610px;
+}
+.sharjah a{
+  float: right;
+  clear: both;
+  position: relative;
+  bottom: 610px;
+  text-decoration: none;
+ box-sizing: border-box;
+ border: 2px solid black;
+ background-color:tomato;
+ border-radius: 5px;
+ color: black;
+ width: fit-content;
 }
