@@ -9,10 +9,22 @@ body{
   box-sizing: border-box;
   border: none;
   text-align: center;
+  position: relative;
+  top: 75px;
+  left: 100px;
 }
 .pic1{
   float: right;
+  width: 700px;
 }
 .mid{
   clear: both;
+}
+h2{
+  text-align: center;
+}
+ol{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
 }
