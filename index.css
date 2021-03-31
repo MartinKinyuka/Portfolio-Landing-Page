@@ -2,3 +2,17 @@ body{
   background-color: #21334B ;
   color: seashell;
 }
+.name{
+  float: left;
+  font-size: larger;
+  font-family: 'Pacifico', cursive;
+  box-sizing: border-box;
+  border: none;
+  text-align: center;
+}
+.pic1{
+  float: right;
+}
+.mid{
+  clear: both;
+}
