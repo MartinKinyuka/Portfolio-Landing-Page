@@ -152,10 +152,25 @@ ol{
   text-align: center;
   font-size: large;
   font-weight: 400;
+  box-sizing: border-box;
+  border: 1px solid white;
+  border-radius: 5px;
+  box-shadow: 1px 1px 1px 1px;
+  background-color: steelblue;
+  padding: 10px;
+  color: black;
+  width: 300px;
+  float: right;
+  padding-left: 0px;
+  position: relative;
+  bottom: 375px;
+  right: 100px;
 
 }#experience{
   font-weight: bold;
   font-size: larger;
   text-align: left;
-  margin-left: 50px;
+  margin-left: 100px;
+  position: relative;
+  bottom: 300px;
 }
