@@ -201,6 +201,10 @@ ol{
   bottom: 350px;
   left: 200px;
 }
+#hobs{
+  position: relative;
+  top:50px;
+}
 .hobbies{
   text-align: center;
   color: black;
@@ -249,4 +253,28 @@ footer{
   position: relative;
   bottom: 250px;
   left: 190px;
+}
+.one{
+  float: right;
+  position: relative;
+  bottom: 30px;
+  margin-right: 20px;
+}
+.one p{
+font-family: 'Pacifico', cursive;
+font-size: x-large;
+text-align: center;
+color: seashell
+}
+.two{
+  float: left;
+  position: relative;
+  bottom: 200px;
+  margin-left: 20px;
+}
+.two p{
+  font-family: 'Pacifico', cursive;
+font-size: x-large;
+text-align: center;
+color: seashell
 }
