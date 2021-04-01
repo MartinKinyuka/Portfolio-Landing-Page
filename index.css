@@ -218,19 +218,35 @@ ol{
   margin-right: auto;
 }
 footer{
-  background-color: tomato;
+  background-color:seashell;
   height: 300px;
   clear: both;
   overflow: hidden;
+  border-radius: 5px;
 }
 .left{
   position: relative;
-  top: 50px;
+  top: 30px;
   padding: 50px;
+  font-family: 'Pacifico', cursive;
+  color: black;
+  font-size: larger;
 }
 .right{
   float: right;
   position: relative;
-  bottom: 175px;
+  bottom: 250px;
   padding: 50px;
+  font-family: 'Pacifico', cursive;
+  color: black;
+  font-size: larger;
+}
+#gif{
+  height: 250px;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  position: relative;
+  bottom: 250px;
+  left: 190px;
 }
