@@ -21,7 +21,7 @@
 
 ### SET-UP
 
->Clone the code by opening the terminal and typing the following command:"$ https://github.com/MartinKinyuka/Dairy-business.git
+>Clone the code by opening the terminal and typing the following command:"$ https://github.com/MartinKinyuka/Portfolio-Landing-Page
 
 >From you local directory you can now edit the code using your favourite IDE.
 
