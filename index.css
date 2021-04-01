@@ -148,3 +148,14 @@ ol{
   position: relative;
   bottom:450px ;
 }
+.fields{
+  text-align: center;
+  font-size: large;
+  font-weight: 400;
+
+}#experience{
+  font-weight: bold;
+  font-size: larger;
+  text-align: left;
+  margin-left: 50px;
+}
