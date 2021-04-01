@@ -22,7 +22,6 @@ body{
 }
 h2{
   text-align: center;
-  clear: both;
 }
 ol{
   display: flex;
@@ -135,4 +134,15 @@ ol{
  border-radius: 5px;
  color: black;
  width: fit-content;
+}
+#about{
+  text-align: center;
+  clear: both;
+  position: relative;
+  bottom: 500px;
+}
+#ppic{
+  height: 500px;
+  float: left;
+  margin-left: 50px;
 }
