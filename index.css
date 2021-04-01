@@ -217,3 +217,20 @@ ol{
   margin-left: auto;
   margin-right: auto;
 }
+footer{
+  background-color: tomato;
+  height: 300px;
+  clear: both;
+  overflow: hidden;
+}
+.left{
+  position: relative;
+  top: 50px;
+  padding: 50px;
+}
+.right{
+  float: right;
+  position: relative;
+  bottom: 175px;
+  padding: 50px;
+}
